@@ -24,4 +24,3 @@ public class SpeedBuffVisual : MonoBehaviour
         rend.material.SetColor("_EmissionColor", originalColor * emission * 2.0f);
     }
 }
-

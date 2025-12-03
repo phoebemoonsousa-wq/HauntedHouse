@@ -1,3 +1,5 @@
+# PlayerMovement
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -42,7 +44,6 @@ public class PlayerMovement : MonoBehaviour
         // Only move and rotate if there's input
         if (isWalking)
         {
-            // FIXED: Use Time.fixedDeltaTime instead of Time.deltaTime
             Vector3 desiredForward = Vector3.RotateTowards(
                 transform.forward,
                 m_Movement,
