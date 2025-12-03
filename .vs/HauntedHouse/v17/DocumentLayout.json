@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\john\\OneDrive\\Desktop\\HauntedHouse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C066209-4B1E-5FB9-A6D3-688D923D08CB}|Assembly-CSharp.csproj|c:\\users\\john\\onedrive\\desktop\\hauntedhouse\\assets\\_3dstealthgame\\scripts\\speedbuffvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C066209-4B1E-5FB9-A6D3-688D923D08CB}|Assembly-CSharp.csproj|c:\\users\\john\\onedrive\\desktop\\hauntedhouse\\assets\\_3dstealthgame\\scripts\\waypointpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C066209-4B1E-5FB9-A6D3-688D923D08CB}|Assembly-CSharp.csproj|solutionrelative:assets\\_3dstealthgame\\scripts\\waypointpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C066209-4B1E-5FB9-A6D3-688D923D08CB}|Assembly-CSharp.csproj|C:\\Users\\john\\OneDrive\\Desktop\\HauntedHouse\\assets\\_3dstealthgame\\scripts\\speedbuffvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C066209-4B1E-5FB9-A6D3-688D923D08CB}|Assembly-CSharp.csproj|solutionrelative:assets\\_3dstealthgame\\scripts\\speedbuffvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C066209-4B1E-5FB9-A6D3-688D923D08CB}|Assembly-CSharp.csproj|c:\\users\\john\\onedrive\\desktop\\hauntedhouse\\assets\\_3dstealthgame\\scripts\\speedbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C066209-4B1E-5FB9-A6D3-688D923D08CB}|Assembly-CSharp.csproj|C:\\Users\\john\\OneDrive\\Desktop\\HauntedHouse\\assets\\_3dstealthgame\\scripts\\speedbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C066209-4B1E-5FB9-A6D3-688D923D08CB}|Assembly-CSharp.csproj|solutionrelative:assets\\_3dstealthgame\\scripts\\speedbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,19 +39,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SpeedBuffVisual.cs",
-              "DocumentMoniker": "C:\\Users\\john\\OneDrive\\Desktop\\HauntedHouse\\Assets\\_3DStealthGame\\Scripts\\SpeedBuffVisual.cs",
-              "RelativeDocumentMoniker": "Assets\\_3DStealthGame\\Scripts\\SpeedBuffVisual.cs",
-              "ToolTip": "C:\\Users\\john\\OneDrive\\Desktop\\HauntedHouse\\Assets\\_3DStealthGame\\Scripts\\SpeedBuffVisual.cs",
-              "RelativeToolTip": "Assets\\_3DStealthGame\\Scripts\\SpeedBuffVisual.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Title": "WaypointPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\john\\OneDrive\\Desktop\\HauntedHouse\\Assets\\_3DStealthGame\\Scripts\\WaypointPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\_3DStealthGame\\Scripts\\WaypointPatrol.cs",
+              "ToolTip": "C:\\Users\\john\\OneDrive\\Desktop\\HauntedHouse\\Assets\\_3DStealthGame\\Scripts\\WaypointPatrol.cs",
+              "RelativeToolTip": "Assets\\_3DStealthGame\\Scripts\\WaypointPatrol.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:13:34.284Z",
+              "WhenOpened": "2025-12-03T17:55:29.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SpeedBuffVisual.cs",
+              "DocumentMoniker": "C:\\Users\\john\\OneDrive\\Desktop\\HauntedHouse\\Assets\\_3DStealthGame\\Scripts\\SpeedBuffVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\_3DStealthGame\\Scripts\\SpeedBuffVisual.cs",
+              "ToolTip": "C:\\Users\\john\\OneDrive\\Desktop\\HauntedHouse\\Assets\\_3DStealthGame\\Scripts\\SpeedBuffVisual.cs",
+              "RelativeToolTip": "Assets\\_3DStealthGame\\Scripts\\SpeedBuffVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:13:34.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SpeedBuff.cs",
               "DocumentMoniker": "C:\\Users\\john\\OneDrive\\Desktop\\HauntedHouse\\Assets\\_3DStealthGame\\Scripts\\SpeedBuff.cs",
               "RelativeDocumentMoniker": "Assets\\_3DStealthGame\\Scripts\\SpeedBuff.cs",
@@ -55,12 +71,11 @@
               "RelativeToolTip": "Assets\\_3DStealthGame\\Scripts\\SpeedBuff.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:00:39.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T09:00:39.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Observer.cs",
               "DocumentMoniker": "C:\\Users\\john\\OneDrive\\Desktop\\HauntedHouse\\Assets\\_3DStealthGame\\Scripts\\Observer.cs",
               "RelativeDocumentMoniker": "Assets\\_3DStealthGame\\Scripts\\Observer.cs",
@@ -72,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\john\\OneDrive\\Desktop\\HauntedHouse\\Assets\\_3DStealthGame\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\_3DStealthGame\\Scripts\\PlayerMovement.cs",
